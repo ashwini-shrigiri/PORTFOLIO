@@ -171,6 +171,8 @@ section {
 }
 .profile-pic{
   border-radius: 20px;
+  height:180px;
+  width:180px;
 }
 .section__pic-container {
   display: flex;
